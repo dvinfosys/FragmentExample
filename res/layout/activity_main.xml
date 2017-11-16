@@ -4,7 +4,7 @@
   
     <fragment  
         android:id="@+id/fragment2"  
-        android:name="com.example.fragmentexample.Fragment2"  
+        android:name="net.dvinfosys.fragmentexample.Fragment2"  
         android:layout_width="0px"  
         android:layout_height="match_parent"   
         android:layout_weight="1"  
@@ -12,7 +12,7 @@
   
     <fragment  
         android:id="@+id/fragment1"  
-        android:name="com.example.fragmentexample.Fragment1"  
+        android:name="net.dvinfosys.fragmentexample.Fragment1"  
         android:layout_width="0px"  
         android:layout_height="match_parent"  
         android:layout_weight="1"  
